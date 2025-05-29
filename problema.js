@@ -17,6 +17,10 @@ Exibiba o título do filme e a duração em horas e minutos.
 */
 
 /*entrada de dados*/
+(function(){
+    alert("Bem-vindo ao Cine EBCA!");
+})();
+
 function algoritimo(){
 const titulo = document.getElementById("titulo").value;
 const duracao = document.getElementById("duracao").value;
